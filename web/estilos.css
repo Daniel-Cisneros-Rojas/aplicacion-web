@@ -1,0 +1,38 @@
+body{
+    width:700px;
+    margin: auto;
+    background-color: wheat;
+    border: dotted;
+}
+head{
+    background-color: gold;
+}
+
+nav li{
+    display:inline-block;
+    padding:5px;
+}
+a{
+    
+    background-color: gold;
+    color: black;
+}
+p{
+    text-align: center;
+    background-color: black;
+    color: gold;
+}
+h1{
+    background-color: darkblue;
+    color:white;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    background-color: gold;
+    color: black;
+}
+p2{
+    display:inline-block;
+}
+.menuSuperior{font-size:  x-large}
